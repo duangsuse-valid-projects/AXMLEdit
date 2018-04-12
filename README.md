@@ -1,6 +1,8 @@
 # AndroidManifest AXML 二进制文件修改工具
 
-此为 [AXMLEditor](https://github.com/fourbrother/AXMLEditor) 重构后的版本, 添加了 `dump/build/plugin` 指令, 修正了部分错误
+此为 [AXMLEditor](https://github.com/fourbrother/AXMLEditor) 重构后的版本, 添加了 `dump/build/plugin` 指令, 修正了部分错误(实际上没有, 只修复了一个可见一个不可见的 bug)
+
+(实际上原重构工程量太大了... 而且有太多因为采用完全 ser/deser 而弃用的代码和认为不够合适的代码, 故决定以本源的部分代码为基础重做一个新的库)
 
 ## 用途
 
