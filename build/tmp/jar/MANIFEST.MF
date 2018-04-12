@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cn.wjdiankong.main.Main
+Class-Path: xmlpull.jar
+
